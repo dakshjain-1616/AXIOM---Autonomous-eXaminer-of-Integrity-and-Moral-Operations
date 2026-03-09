@@ -1,0 +1,10 @@
+# AXIOM - Autonomous eXaminer of Integrity and Moral Operations
+# Python Dependencies
+
+# No external dependencies required - AXIOM uses only Python standard library
+# Python 3.8+ recommended
+
+# Optional dependencies for enhanced functionality (uncomment if needed):
+# requests>=2.28.0          # For API integrations
+# python-dotenv>=0.19.0    # For environment variable management
+# pyyaml>=6.0               # For YAML configuration support
