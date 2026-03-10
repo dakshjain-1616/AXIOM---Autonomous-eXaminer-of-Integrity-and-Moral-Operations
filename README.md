@@ -2,6 +2,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Powered by](https://img.shields.io/badge/made%20by-NEO-black)](https://heyneo.so/)
 [![Code Style: PEP 8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
 
 > An autonomous ethics auditing agent that scans code for privacy, bias, surveillance, and dark-pattern issues — then debates, resolves, measures carbon impact, and generates legal documentation.
